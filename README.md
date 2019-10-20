@@ -2,36 +2,26 @@
 Our group work of COMM7330!  
 
 
-## Timeline
+## Existing works on 'migrants'
 
-### Accomplishment
-**10/17**  
-1. 确定可视化方式：数据地图
-2. 找到了好用的数据集  
-**10/20**  
-1. 确定了主题：[Migrants](https://www.kaggle.com/snocco/missing-migrants-project)  
-
-
-### To Do List
-**10/17**  
-1. 每人选择一款数据集，*10/19*下午下课后确定选题。选题会时间群内确定。
-> 思考Template中  
->**What is your motivation and needs to do this project?**  
->**Reviewing existing works**  
->**How do you find answers?**  
->选题会沟通
-
-2. 自行调试[Kepler.GL](https://github.com/keplergl/kepler.gl)
-> *资源*：[Kaggle](https://www.kaggle.com/datasets)；[Towards Data Science](https://towardsdatascience.com/)  
-
-**10/20**
-(见issue)
+[missing migrants case](https://missingmigrants.iom.int/)  
+[Two centries of US Immigration](http://metrocosm.com/us-immigration-history-map.html?ref=producthunt)  
+[All the World’s Immigration Visualized in 1 Map](http://metrocosm.com/global-immigration-map/?utm_content=buffer113b2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)  
 
 
 ## References
 
 [The Art of Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57)  
-[Quick start for *matplotlib*, *seaborn*, *plotly*, *pyecharts*, *pandas*, *bokeh* and *ggplot*](https://github.com/tudousponge/python-for-data-and-media-communication-gitbook/blob/master/notes-week-11.md)  
-[Quick start for geographical visualization](https://github.com/tudousponge/python-for-data-and-media-communication-gitbook/blob/master/notes-week-15.md)  
-[missing migrants case](https://missingmigrants.iom.int/)
+[Quick start for *matplotlib*, *seaborn*, *plotly*, *pyecharts*, *pandas*, *bokeh* and *ggplot*](https://github.com/tudousponge/python-for-data-and-media-communication-gitbook/blob/master/notes-week-11.md)    
+[Quick start for geographical visualization](https://github.com/tudousponge/python-for-data-and-media-communication-gitbook/blob/master/notes-week-15.md)    
 [Missing Migrants Dataset](https://www.kaggle.com/snocco/missing-migrants-project)
+
+
+
+
+
+
+
+
+
+
