@@ -24,5 +24,5 @@ Our group work of COMM7330!
 ## References
 
 [The Art of Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57)  
-[Quick start for *matplotlib*, *seaborn*, *plotly*, *pyecharts*, *pandas*, *bokeh* and *ggplot*](https://github.com/tudousponge/python-for-data-and-media-communication-gitbook/blob/master/notes-week-11.md)
+[Quick start for *matplotlib*, *seaborn*, *plotly*, *pyecharts*, *pandas*, *bokeh* and *ggplot*](https://github.com/tudousponge/python-for-data-and-media-communication-gitbook/blob/master/notes-week-11.md)  
 [Quick start for geographical visualization](https://github.com/tudousponge/python-for-data-and-media-communication-gitbook/blob/master/notes-week-15.md)
